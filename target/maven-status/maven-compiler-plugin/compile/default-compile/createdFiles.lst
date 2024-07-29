@@ -1,0 +1,5 @@
+tn/esprit/spring/control/UserRestControlImpl.class
+tn/esprit/spring/ServletInitializer.class
+tn/esprit/spring/service/IUserService.class
+tn/esprit/spring/service/UserServiceImpl.class
+tn/esprit/spring/DockerSpringBootApplication.class
